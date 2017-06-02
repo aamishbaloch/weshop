@@ -1,0 +1,12 @@
+*.pyc
+*.xml
+*.iml
+/.idea
+.idea
+error.log
+weshop/local_settings.py
+dump.rdb
+eggs.csv
+errors_log.out
+logfile
+
